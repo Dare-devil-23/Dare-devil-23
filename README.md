@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.ibb.co/T87d57D/sahith.png"> </p>
+<p align = center ><img src="https://i.ibb.co/RStXZ0r/sahith-black-logo.png"> </p>
 
 <div>
 
