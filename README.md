@@ -7,7 +7,7 @@
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+- 💀 mostly working on <a href="https://github.com/sahithFC">**private repositories**</a>
 - 👾 a **Developer** working his way around things
   
 <h2> / current skills / </h2>
