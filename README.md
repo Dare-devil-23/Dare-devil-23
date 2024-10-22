@@ -19,11 +19,11 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
 - <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "reactJS" />
-  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "NextJS" />
+  <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt = "reactJS" />
+  <img src = "https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt = "NextJS" />
   <img src = "https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt = "Node.js" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt = "springboot" />
+  <img src = "https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" alt = "springboot" />
   <img src = "https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="redux"/>
   <img src = "https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white" alt="Framer-motion"/>
